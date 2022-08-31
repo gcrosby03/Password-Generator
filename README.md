@@ -22,8 +22,8 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
  
- ![](../../../Password-Generator/Develop/Capture.PNG)
+ ![](./Password-Generator/Develop/Capture.PNG)
 
- ![](../../../Password-Generator/Develop/Capture1.PNG)
+ ![](Password-Generator/Develop/Capture1.PNG)
 
  This is the *[Deployable Link](https://gcrosby03.github.io/Password-Generator/)*.
